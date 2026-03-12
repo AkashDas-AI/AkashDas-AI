@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Electrical Engineer focused on the intersection of energy systems and data science. My work revolves around building predictive models for energy infrastructure—from optimizing grid demand to analyzing the health and longevity of storage systems.<br><br>Currently, I’m exploring the world of quantitative research, developing simulations that bridge financial intelligence with algorithmic patterns. I am a lifelong learner, presently refining my Python foundations while diving into SQL and Deep Learning to expand my analytical toolkit.<br><br>I value clean code, honest data, and collaborative problem-solving. Whether it's discussing smart grid innovations or sharing insights on predictive analytics, I’m always open to a conversation—feel free to reach out in English, Hindi, Bengali, or German!
+🔭 I’m currently working as a Research Analyst at ZeTheta Algorithms<br>💬 Ask me about Energy AI, Predictive Maintenance, and Quantitative Research<br>📫 How to reach me: LinkedIn or Email<br>😄 Pronouns: He/Him<br>⚡ Fun fact: When I'm not coding, you can usually find me gaming with friends, watching movies and anime, or catching up on the latest manga!
 
 
 ## 🌐 Socials:
