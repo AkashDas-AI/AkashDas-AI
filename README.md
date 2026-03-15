@@ -1,25 +1,13 @@
 <img src="GitHub%20Banner%20Image%20by%20Canva.png" alt="GitHub Banner" width="100%">
 
 # 💫 About Me
-🔌 Electrical Engineer working at the intersection of energy systems and data-driven intelligence.<br>
-🔭 Currently a Research Analyst Intern at ZeTheta Algorithms, developing quantitative simulations, financial data models, and applied machine learning systems.
-
-### 🔬 Current Work
-🏢 Real Estate Inventory Tracking – Forecasting developer cash flow stress 2–3 quarters ahead using RERA data and broker intelligence across 50+ projects.<br>
-🧠 Earnings Call NLP – Sentiment and tone analysis to quantify management confidence.<br>
-📊 Intraday Pattern Recognition – Simulating technical chart patterns to estimate trading success probabilities.<br>
-📈 Index Rebalancing Research – Studying index inclusion mechanics and passive fund flows to identify rebalancing opportunities.
-
-### ⚡ Energy AI Projects
-* Feeder Demand Forecasting & Peak Load Detection (utility + weather data)
-* Battery SoH & RUL Prediction using NASA aging datasets
-* Smart Building Energy Forecasting with smart meter data
-* Power Distribution Fault Detection using three-phase voltage/current signals
-
-🛠️ Currently learning: Deep Learning • SQL • Advanced Python architecture<br>
-🌍 Languages: English, Hindi, Bengali | Learning German | Exploring Finnish<br>
-🤝 Interested in open-source projects in smart grids, renewable energy systems, and energy analytics.<br>
-📫 Reach me via LinkedIn or Email.
+🔌 Electrical Engineer working at the intersection of **energy infrastructure, machine learning, and quantitative research**.<br>
+🔭 Currently a **Research Analyst Intern at ZeTheta Algorithms**, developing **quantitative simulations, financial data models, and applied ML systems**.<br>
+⚡ Background in **Energy AI**, with experience in demand forecasting, battery health modeling, and predictive analytics for power systems.<br>
+🛠️ Currently learning **Deep Learning, SQL, and scalable Python architectures**.<br>
+🌍 Fluent in **English, Hindi, and Bengali** | Learning **German** | Exploring **Finnish**.<br>
+🤝 Interested in **open-source work around smart grids, renewable energy systems, and energy analytics**.<br>
+📫 Reach me via **LinkedIn or Email**.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BqMNaAUTm/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rashing_dane?igsh=czN6Y2IwbXhidWNn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-das-3210422b4?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/YdSrUYYTk) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Akash-Das-124?ch=3&oid=189774596&share=c09c2279&srid=umWpt&target_type=user) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishiakshata2803@gmail.com) 
